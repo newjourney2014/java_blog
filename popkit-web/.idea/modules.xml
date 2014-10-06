@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/popkit-web.iml" filepath="$PROJECT_DIR$/popkit-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popkit-base.iml" filepath="$PROJECT_DIR$/popkit-base.iml" />
     </modules>
   </component>
 </project>

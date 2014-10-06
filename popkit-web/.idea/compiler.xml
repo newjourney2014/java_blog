@@ -22,12 +22,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="popkit-web" />
+        <module name="popkit-base" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="popkit-web" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
 
